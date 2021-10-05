@@ -1,3 +1,3 @@
 package dummyrelease
 
-var X string = "2"
+var X string = "3"
