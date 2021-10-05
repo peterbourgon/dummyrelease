@@ -1,3 +1,3 @@
 package dummyrelease
 
-var X string = "v3.0.3"
+var X string = "v0.1.0 reset"
