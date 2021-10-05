@@ -1,3 +1,3 @@
 package dummyrelease
 
-var X string = "3"
+var X string = "v3.x.x"
