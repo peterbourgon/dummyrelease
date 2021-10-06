@@ -1,4 +1,4 @@
-module github.com/peterbourgon/dummyrelease
+module github.com/peterbourgon/dummyrelease/v2
 
 go 1.17
 
@@ -6,6 +6,7 @@ go 1.17
 // See http://peter.bourgon.org/blog/2020/09/14/siv-is-unsound.html.
 
 retract (
-	v1.0.0 // It was a mistake for this module to move beyond major version 0.
-	v1.0.1 // Contains retractions only.
+	v2.0.0 // It was a mistake for this module to move beyond major version 0.
+	v2.0.1 // It was a mistake for this module to move beyond major version 0.
+	v2.0.2 // Contains retractions only.
 )
